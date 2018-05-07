@@ -1,6 +1,6 @@
 # Expression Evaluation
 
-Expression evaluation done in C++ as an assignment for the Bachelors course **Data Structures**.
+Expression evaluation done in C++ as an assignment for the Bachelors course **Data Structures** in Fall 2013.
 
 ### Algorithm
 
